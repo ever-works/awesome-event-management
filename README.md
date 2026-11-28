@@ -5,7 +5,7 @@ A curated directory of event-management, ticketing, virtual-event and webinar pl
 ## 📑 Table of Contents
 
 - [Event Apps & Check-In (7)](#event-apps--check-in)
-- [Event Management Platforms (14)](#event-management-platforms)
+- [Event Management Platforms (15)](#event-management-platforms)
 - [Open-Source & Self-Hosted (7)](#open-source--self-hosted)
 - [Ticketing (8)](#ticketing)
 - [Virtual & Hybrid Events (10)](#virtual--hybrid-events)
@@ -26,6 +26,7 @@ A curated directory of event-management, ticketing, virtual-event and webinar pl
 
 - [Accelevents](https://www.accelevents.com/) - Event management platform focused on customer support with advanced registration workflows featuring conditional logic, automated check-in technology, and a website builder with dynamic widgets. Integrates with CRMs and payment processors. Paid plans start at $7,000 for one event. ([Read more](/details/accelevents.md)) `Paid` `Registration` `Check In` `API`
 - [Bizzabo](https://www.bizzabo.com/) - User-friendly event management platform suitable for beginners or small teams. The platform provides event management capabilities with a focus on ease of use, though it lacks some customizability compared to other enterprise options. ([Read more](/details/bizzabo.md)) `Paid` `Enterprise` `Small Business`
+- [Bizzabo Sponsor ROI](https://www.bizzabo.com/event-management-software/event-sponsor-management-software) - Sponsor ROI is a sponsor management module within the Bizzabo event management platform. It combines sponsor management, AI-powered matchmaking, lead retrieval, and reporting to connect sponsor interactions with sales pipeline. ([Read more](/details/bizzabo-sponsor-roi.md)) `Paid` `API` `AI Powered`
 - [Calendify](https://calendify.com/) - An event community where users can share, publish, and subscribe to event calendars to stay informed about interests and upcoming events. ([Read more](/details/calendify.md)) `Freemium` `Calendar` `Event Community`
 - [Canapii](https://www.canapii.com/) - Event management platform focused on visualizing event spaces with an advanced seating planner, self-serve sponsor portal, and streamlined organizer dashboard. Offers customized event branding, registration forms, and engagement tools like live streaming, polling, Q&A, and gamification. 7-day free trial available; paid plans start at $2,950 for 300 attendees and 10 admins. ([Read more](/details/canapii.md)) `Paid` `Registration` `Event App`
 - [Cvent](https://www.cvent.com/) - Enterprise event management platform for meetings, conferences, and trade shows. Provides registration, venue sourcing, event marketing, and on-site solutions. Targets large organizations with paid, custom pricing. ([Read more](/details/cvent.md)) `Enterprise` `Event Management` `API` `Meetings`
